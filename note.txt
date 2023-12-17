@@ -1,0 +1,17 @@
+Accounts:
+
+Name: Angelito Quiambao
+Email Address: angelito@mail.com
+Password: angelito123
+
+Name: John Doe
+Email Address: john@mail.com
+Password: johndoe123
+
+Name: Jane Smith
+Email Address: jane@mail.com
+Password: janesmith123
+
+Name: User
+Email Address: user@mail.com
+Password: useruser
